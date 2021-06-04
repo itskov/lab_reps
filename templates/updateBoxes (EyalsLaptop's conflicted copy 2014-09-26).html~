@@ -1,0 +1,161 @@
+<html>
+<head>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<!-- Jquery Scripts -->
+<script>
+$(document).ready(function(){
+	updateRadioButtons();
+	$("input[name=displayOption]:radio").change(function () {
+		updateRadioButtons();
+	})
+
+	{% if allBoxes|length > 0 %}
+		loadSelectedBox();
+	{% endif %}
+
+})
+
+
+var currentBoxId;
+
+
+function getRadioState() {
+	return ($("input[type='radio'][name=displayOption]:checked").val());
+}
+
+function updateRadioButtons() {
+	option = getRadioState();
+	
+	if (option == 'all') {
+		$("#entityBoxesSelection").prop('disabled',true);
+		$("#allBoxesSelection").prop('disabled',false);
+	} else {
+		$("#entityBoxesSelection").prop('disabled',false);
+		$("#allBoxesSelection").prop('disabled',true);
+	}
+}
+
+function getCurrentBoxId() {
+	option = getRadioState();
+
+	bId = -1;
+
+	if (option == 'all') {
+		bId = ($( "#allBoxesSelection option:selected" ).val());
+	} else {
+		bId = ($( "#entityBoxesSelection option:selected" ).val());
+	}
+
+	return bId;
+}
+
+
+function loadSelectedBox() {
+	option = getRadioState();
+
+	bId = getCurrentBoxId();
+
+	$("#boxFrame").attr("src", "/services/updateBox/" + bId  + "/{{entityId}}/");
+	
+}
+
+function submitChanges() {
+
+	changesDict = window.frames[0].window.changesDict;
+	bId = getCurrentBoxId();
+
+
+	$.post( "/services/submitBox/" + bId +  "/{{entityId}}/", changesDict).done(function() {
+		location.reload()
+		$("#testSpan").text("Updated Succesfully.");
+	});
+}
+
+function exportCurrentBox() {
+	bId = getCurrentBoxId();
+
+	window.location.assign("/services/exportWormBox/" + bId  +"/")
+}
+
+
+</script>
+
+</head>
+
+<body>
+
+ <table style="width:100%;height:100%;">
+  <tr style="height:100%;"> 
+    <td style="width:20%;height:100%;border: 1px solid black;vertical-align: top;">
+	<table style="height:100%;border: 1px solid black">
+	<tr>
+	<td>
+	<form>
+		{% if entityBoxes|length > 0 %}
+			<input type="radio" name="displayOption" value="entity" checked>Show boxes for current entity<br>
+		<input type="radio" name="displayOption" value="all">Show all boxes<br>
+		{% else %}
+		<input type="radio" name="displayOption" value="entity" disabled="true">Show boxes for current entity<br>
+		<input type="radio" name="displayOption" value="all" checked>Show all boxes<br>
+		{% endif %}
+	</form>
+
+
+			<table style="width:100%">
+				{% if entityBoxes|length > 0 %}
+				<tr>
+					<td>
+						<label for="entityBoxes">Current entity Boxes:</label>
+					</td>
+					<td>
+						<select id="entityBoxesSelection" onchange="loadSelectedBox()">
+							{% for box in entityBoxes %}
+								<option value="{{ box.id }}">{{ box.box_name }}</option>
+							{% endfor %}
+						</select>
+					</td>
+				</tr>
+				{% endif %}
+				<tr>
+					<td>
+						<label for="allBoxes">All Boxes:</label>
+					</td>
+					<td>
+						<select id="allBoxesSelection" onchange="loadSelectedBox()">
+						{% for box in allBoxes %}
+							<option value="{{ box.id}}">{{ box.box_name }}</option>
+						{% endfor %}
+						</select>
+					</td>
+				</tr>
+			</table>
+	
+	<p style="text-align: center;"><input type="button" value="Submit changes" onclick="submitChanges()"/></p>
+    </td -->  
+  </tr>
+  <tr style="height:100%;bottom:0;">
+    <td style="height:100%;vertical-align:text-bottom;display:block;">
+	{% if allBoxes|length > 0 %}
+		<form style="height:100%;bottom:0;">
+			<input type="button" value="Export box to file" onclick="exportCurrentBox()"/> 
+		</form>
+	{% endif %}
+    </td>
+  </tr>
+</table>
+
+    </td>
+    <td style="height:100%;vertical-align: top;">
+	{% if allBoxes|length > 0 %}
+		<iframe id="boxFrame" src="" width="100%" height="100%" name="temp"/>
+	{% else %}
+		<p>No available boxes.</p>
+	{% endif %}
+	
+    </td>
+  
+  </tr>
+</table> 
+
+</body>
+</html>

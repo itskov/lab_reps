@@ -1,0 +1,29 @@
+from django.db import models
+from django.contrib.auth.models import User
+from datetime import datetime
+
+from General.models import Entity
+from General.models import CryoBox
+
+# Create your models here.
+
+FREEZESTATE = (
+    (0, 'Frozen'),
+    (1, 'Not Frozen'),
+    (2, 'Temporarily Frozen'),
+)
+
+ORIGIN = (
+	(0, 'Injected'),
+	(1, 'CGC'),
+	(2, 'Other'),
+	)
+
+class WormStrain(Entity):
+	worm_name = models.CharField('Worm Name', max_length=256)
+	state = models.IntegerField('Strain State', choices=FREEZESTATE)
+	origin = models.IntegerField('Origin of strain',choices=ORIGIN)
+	description = models.TextField('Description')
+
+
+

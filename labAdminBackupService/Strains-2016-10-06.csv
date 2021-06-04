@@ -1,0 +1,634 @@
+Name,Official Name,AzNumber,Origin,Made by,Is Thawed,Description
+odr-7:: ChR2-YFP unc-119::GCaMP-1 unc-119::DsRed,,1,2,Alon,False,"Made by Alon in CalTech, no copies in Israel"
+gcy-5:: ChR2-YFP unc-119::GCaMP1 unc-119::DsRed,,2,2,Alon,False,"Made by alon in CalTech, no copies in Israel"
+gcy-5:: ChR2-YFP gcy-8:: GCaMP-2,,3,2,Alon,False,"Made by Alon in CalTech, no copies in Israel"
+pax-2::GFP glr-1::GCaMP-2 odr-7::ChR2-YFP ,,4,2,Alon,False,"glr-1 with GCaMP
+AWA  ChR2
+
+Only glr-1 neurons are seen
+
+Made by Alon in CalTech, no copies in Israel"
+pax-2::GFP glr-1::GCaMP-2 odr-7::ChR2-YFP gcy-5::DsRed2,,5,2,Alon,False,"Glr-1 with GCaMP
+AWA  ChR2
+
+Only glr-1 are seen
+
+Made by Alon in CalTech, no copies in Israel"
+gcy-5::GCaMP-2,,6,2,Alon,False,"Made by Alon in CalTech, no copies in Israel"
+glr-1::GCaMP-2,,7,2,Alon,False,"Made by Alon in CalTech, No copies in Israel"
+gcy-5: ChR2-cherry glr-1::GCaMP-2,,8,2,Alon,False,"AZ-8-1 Many mosaic, 
+GCaMP is dim
+
+Made by Alon in CalTech"
+glr-1::ChR2-cherry gcy-5::GCaMP-2,,9,2,Alon,False,Made by Alon in CalTech
+gcy-5:: ChR2-cherry gcy-8::GCaMP2,,10,2,Alon,False,"AZ-10-2 strong GCaMP, highly transmittable
+
+Made by ALon in CalTech,"
+gcy-5:: ChR2-cherry glr-1::GCaMP1,,11,2,Alon,False,Made by Alon in CalTech
+gcy-5:: ChR2-cherry gcy-5:: GCaMP-1,,12,2,Alon,False,"Only ChR2 observed
+
+Made by Alon in CalTech, no copies in Israel"
+glr-1::ChR2-chry glr-1::GCaMP1,,13,2,Alon,False,"Signal was detected in Ca imaging
+
+Made by ALon in CalTech"
+eat-4::ChR2-cherry glr-1::GCaMP1,,14,2,Alon,False,Made by Alon in CalTeh
+sra-6:: ChR2-cherry sra-6:: GCaMP-1,,15,2,Alon,False,"Can see only the cherry
+
+Made by Alon in CalTech, no copies in Israel"
+gcy-5::iGluR6-chry,,16,2,Alon,False,"Chry is seen in many pharynx cells
+
+Made by Alon in CalTech"
+str-2::GCaMP-2,,17,2,Alon,False,"Made by Alon in CalTech, no copies in Israel"
+myo-3::GFP-Aequorin,,18,2,Alon,False,Made by Alon in CalTech
+dgk-1::GFP-Aequorin,,19,2,Alon,False,Made by Alon in CalTech
+str-2::ChR2-chry(H134R) str-2::GCaMP-2,,20,2,Alon,False,"Made by Alon in  CalTech, no copies in Israel "
+gcy-5::ChR2-chry(H134R) gcy-5::GCaMP-2,,21,2,Alon,False,"Made by Alon in  CalTech, no copies in Israel "
+unc-119::GFP-Aequorin,,22,2,Alon,False,Made by Alon in  CalTech
+gcy-5::ChR2-chry(H134R),,23,2,Alon,False,"Made by Alon in  CalTech, no copies in Israel "
+str-2::ChR2-chry(H134R),,24,2,Alon,False,"Made by Alon in  CalTech, no copies in Israel "
+gcy-5::ChR2-chry(H134R) 1,,25,2,Alon,False,"Made by Alon in  CalTech, no copies in Israel "
+gcy-8::ChR2-chry(H134R) gcy-8::GCaMP-2,,26,2,Alon,False,"Made by Alon in  CalTech, no copies in Israel "
+gcy-8::GCaMP-2,,27,2,Alon,False,"Made by Alon in  CalTech, no copies in Israel "
+mec-4::ChR2-chry(H134R),,28,2,Alon,False,"Made by Alon in  CalTech, no copies in Israel "
+myo-3::ChR2-chry(H134R),,29,2,Alon,False,"Made by Alon in CalTech, no copies in Israel"
+sra-6:: GFP-Aequorin ,,30,2,Alon,False,"pha-1 bkg
+Made by Alon in CalTech"
+str-2:: GFP-Aequorin ,,31,2,Alon,False,"pha-1 bkg
+Made by Alon in CalTech"
+C37::GFP ,,32,2,Alon,False,"Made by Alon in CalTech, no copies in Israel"
+rpa-0::GFP ,,33,2,Alon,False,"Made by Alon in CalTech, no copies in Israel"
+sra-6::GCaMP-3 ,PS6386,34,2,Alon,True,"syEx1246[sra-6::GCaMP3+pha-1]; pha-1(e2123ts)
+pha-1 bkg
+Made by Alon in CalTech"
+sra-6 lite (sharad),,35,2,?,False,"Ex[psra-6::chop-2(H134R), posm-10::GcaMP, punc-122::mCherry]; pnmr-1::GCaMP V; lite-1(ce314) X
+"
+sra-6 (sharad),,36,2,?,False,"Ex[psra-6::chop-2(H134R), posm-10::GcaMP, punc-122::mCherry]; pnmr-1::GCaMP V"
+gcy-8::GCaMP-3,PS6389,37,2,Alon,True,"syEx1251[gcy-8::GCaMP3+pha-1]; pha-1(e2123ts)
+Made by Alon in CalTech"
+str-1::GCaMP-3,PS6384,38,2,Alon,True,"syEx1245[str-1::GCaMP3+pha-1]; pha-1(e2123ts)
+pha-1 bkg
+Made by Alon in CalTech"
+gpa-4::GCaMP-3,PS6410,39,2,Alon,False,"syEx1200[gpa-4::GCaMP3+pha-1]; pha-1(e2123ts)
+Made by Alon in CalTech"
+str-2::GCaMP3,,40,2,Alon,False,Made by Alon in CalTech
+str-1::GFP,,41,2,Alon,False,Made by Alon in CalTech
+glr-3::GCaMP-3,,42,2,Alon,False,Made by Alon in CalTech
+"pha-1, lite-1",,43,3,,True,"lite-1(ce314) X , pha-1(e2123)III (From Zengcai)"
+eat-4::GCaMP-3,,44,2,Alon,False,Made by Alon in CalTech
+gcy-5::GCaMP-3,PS6382,45,2,Alon,True,"syEx1243[gcy-5::GCaMP3+pha-1]; pha-1(e2123ts)
+pha-1 bkg
+Made by Alon in CalTech"
+"sra-6::ChR2, glr-3::GCaMP-3 ",,46,2,Alon,False,"In lite-1 bkg (injected pha-1,lite1 strain)
+Made by Alon in CalTech"
+myo-2::HyLi-GFP-Plus,,47,2,Alon,False,"In pha-1 bkg
+Made by Alon in CalTech"
+sra-6::GCaMP3 ,,48,2,Alon,True,"
+In lite-1 bkg (injected pha-1,lite1 strain)
+Made by Alon in CalTech"
+srh-142::GCaMP-3,PS6377,49,2,Alon,True,"syEx1249[srh-142::GCaMP3+pha-1]; pha-1(e2123ts)
+pha-1 bkg
+Made by Alon in CalTech"
+srg-8::GCaMP-3,,50,2,Alon,False,"pha-1 bkg
+Made by Alon in CalTech"
+gpa-4::ChR2-cherry(zs),,51,2,Alon,True,"Lite-1 bkg 
+Made by Alon in CalTech"
+gcy-8::ChR2(zs),PS6249,52,2,Alon,False,"NOT a lite-1 bkg 
+
+Made by Alon in CalTech
+"
+str-2::ChR2-cherry (zs),,53,2,Alon,False,"lite-1 bkg
+Made by Alon in CalTech"
+"sra-6::ChR2-cherry (zs, C128S)",,54,2,Alon,False,"C128S mutation done on the H134R ChR2-mCherry of ZS.
+Injected in lite-1 bkg 
+Made by Alon in CalTech"
+dat-1::GCaMP3,PS6250,55,2,Alon,True,"syEx1236[dat-1::GCaMP3+pha-1]; pha-1(e2123ts)
+pha-1 bkg
+Made by Alon in CalTech"
+des-2::GCaMP3,PS6252,56,2,Alon,True,"syEx1237[des-2::GCaMP3+pha-1]; pha-1(e2123ts)
+pha-1 bkg
+Made by Alon in CalTech"
+srsx-3::GCaMP3,PS6253,57,2,Alon,True,"syEx1238[srsx-3::GCaMP3+pha-1]; pha-1(e2123ts)
+pha-1 bkg
+Made by Alon in CalTech"
+gcy-7::GCaMP3,PS6383,58,2,Alon,True,"syEx1244[gcy-7::GCaMP3+pha-1]; pha-1(e2123ts)
+pha-1 bkg
+Made by Alon in CalTech"
+gpa-4::ChR2-cherry(zs) 1,,59,3,Zengcai,False,"From Zengcai 
+in pha-1;lite-1"
+gcy-5:: ChR2-cherry(zs),PS6259,60,2,Alon,True,pha-1; lite-1 bkg
+gcy-33::ChR2-cherry(zs),,61,2,Alon,False,"pha-1;lite-1 bkg.  
+Made by Alon in CalTech"
+str-2(2)::GCaMP-3,PS6374,62,2,Alon,True,"syEx1240[str-2::GCaMP3+pha-1]; pha-1(e2123ts); him-5 (e1490)
+pha-1;him-5 bkg
+
+Made by Alon in CalTech"
+glr-3::ChR2-cherry(zs),,63,2,Alon,False,"pha-1;lite-1 bkg
+
+Made by Alon in CalTech"
+gcy-8::ChR2-cherry(zs),,64,2,Alon,False,"pha-1; lite-1 
+
+Made by Alon in CalTech"
+myo-3::Arch-GFP,,65,2,Alon,True,"Injected plasmid from Zengcai
+pha-1;lite-1 bkg
+"
+mec-4(2)::ChR2-cherry(zs),,66,2,Alon,False,"Made by Alon in CalTech
+pha-1; lite-1 bkg"
+ocr-4::ChR2-cherry(zs),,67,2,Alon,False,"Made by Alon in CalTech
+pha-1; lite-1 bkg"
+unc-31(e928); pha-1(e2123ts),,68,3,,False,keep in 15degC
+unc-31(e928); pha-1(e2123ts) Ex[des-2::GCaMP-3; pha-1],,69,2,Alon,False,des-2::GCaMP-3 into unc-31bkg (AZ-68)
+srh-142::ChR2-cherry(zs),,70,2,Alon,False,pha-1; lite-1 bkg
+str-1::ChR2-cherry(zs),,71,2,Alon,False,pha-1; lite-1 
+nmr-1::ChR2-cherry(zs),,72,2,Alon,False,pha-1; lite-1 
+nmr-1::GCaMP3 ,,73,2,Alon,False,pha-1 
+osm-3::GCaMP3,PS6376,74,2,Alon,True,"syEx1242[osm-3::GCaMP3+pha-1]; pha-1(e2123ts)
+pha-1"
+unc-31(e928); pha-1(e2123ts) Ex[str-1::GCaMP-3; pha-1],,75,2,Alon,False,str-1::GCaMP-3 into unc-31 bkg (AZ-68)
+unc-31(e928); pha-1(e2123ts) Ex[str-2::GCaMP-3; pha-1;him-5],,76,2,Alon,False,str-2::GCaMP-3 into unc-31 bkg (AZ-68)
+gpa-4::Arch-GFP,,77,2,Alon,False,pha-1; lite-1 bkg
+str-1::Arch-GFP,,78,2,Alon,False,pha-1; lite-1 
+ocr-4::GCaMP3,PS6378,79,2,Alon,False,"syEx1250[ocr-4::GCaMP3+pha-1]; pha-1(e2123ts)
+pha-1 "
+myo-3::ChR2-cherry(zs),,80,2,Alon,False,pha-1; lite-1 
+del-1::ChR2-cherry(zs),,81,2,Alon,False,pha-1; lite-1 
+gpa-9::GCaMP3,PS6388,82,2,Alon,True,"syEx1248[gpa-9::GCaMP3+pha-1]; pha-1(e2123ts); him-5(e1490)
+pha-1; him-5 "
+fut-1::GCaMP3,,83,2,Alon,False,pha-1; him-5 
+unc-31(e928); pha-1(e2123ts) Ex[gcy-5::GCaMP-3; pha-1],,84,2,Alon,False,gcy-5::GCaMP-3 into unc-31 bkg (AZ-68)
+sra-9::GCaMP3,PS6387,85,2,Alon,False,"syEx1247[sra-9::GCaMP3+pha-1]; pha-1(e2123ts); him-5(e1490)
+pha-1;him-5 "
+Combo-1,,86,2,Alon,False,"pha-1;him-5 bkg. [sra-6::ChR2, sra-6:G3, nmr-1::G3, del-1::G3,myo-3::G3] "
+sra-6::Arch,,87,2,Alon,False,"pha-1,lite-1 "
+str-2::Arch,,88,2,Alon,True,"pha-1,lite-1 "
+mec-4::GCaMP-3,PS6393,89,2,Alon,False,"syEx1254[mec-4::GCaMP3+pha-1]; pha-1(e2123ts)
+pha-1,him-5 "
+gcy-33::GCaMP-3,PS6416,90,2,Alon,True,"syEx1206[gcy-33::GCaMP3+pha-1]; pha-1(e2123ts)
+pha-1 "
+combo-3,,91,2,Alon,False,"gpa-9::ChR2-cherry
+gpa-9::GCaMP3
+sra-9::GCaMP3
+in pha-1;lite-1
+"
+sri-51::GCaMP-3,PS6522,92,2,Alon,False,"sri-51::GCaMP3+pha-1]; pha-1(e2123ts)
+pha-1; him-5 "
+Combo-4,,93,2,Alon,True,"gcy-5::ChR2-cherry
+gcy-5::GCaMP3
+str-2::GCaMP3
+in pha-1;lite-1 
+"
+unc-13 mutant,MT7929 ,94,1,,False,unc-13(e51) 
+Combo-2,,95,2,Alon,True,"mec-4::ChR2
+dat-1::G3
+pha-1, lite-1 bkg 
+"
+"unc-13(e51),str-2::GCaMP3 Ex[str-2::GCaMP-3; pha-1]",,96,2,Alon,False,str-2::GCaMP-3 into unc-13(e51)  
+Combo-5,,97,2,Alon,True,"str-2::ChR2-cherry
+str-2::GCaMP3
+srsx-3::GCaMP3
+in pha-1;lite-1
+"
+Combo-6,,98,2,Alon,False,"str-1::ChR2-cherry
+str-1::GCaMP3
+str-2::GCaMP3
+in pha-1;lite-1 
+"
+Combo-7,,99,2,Alon,False,"gcy-5::ChR2-cherry
+gcy-5::GCaMP3
+srsx-3::GCaMP3
+in pha-1;lite-1 
+"
+"unc-13(e51),str-1::GCaMP3 Ex[str-1::GCaMP-3; pha-1]",,100,2,Alon,False,str-1::GCaMP-3 into unc-13(e51) 
+"unc-13(e51),gcy-5::GCaMP3 Ex[gcy-5::GCaMP-3; pha-1]",,101,2,Alon,False,gcy-5::GCaMP-3 into unc-13(e51) 
+Combo-8,,102,2,Alon,False,"gpa-5::ChR2-cherry (seen)
+gpa-5::GCaMP3 (?)
+gcy-5::GCaMP3 (?)
+not sure which of the G3 is obeserved
+in pha-1;lite-1 
+"
+"unc-13(e51),fut-1::GCaMP3 Ex[fut-1::GCaMP-3; pha-1]",,103,2,Alon,False,fut-1::GCaMP-3 into unc-13(e51)
+unc-13(s69),BC168,104,1,,False,unc-13 mutant
+srsx-3::ChR2-cherry(zs),,105,2,Alon,False,pha-1; lite-1 
+Combo-9,,106,2,Alon,True,"mec-4::ChR2-cherry
+mec-4::GCaMP3
+str-2::GCaMP3
+sra-6::GCaMP3
+in pha-1;lite-1 
+"
+Combo-10,,107,2,Alon,True,"dat-1::ChR2-cherry
+dat-1::GCaMP3
+mec-4::GCaMP3
+in pha-1;lite-1 
+"
+Combo-11,,108,2,Alon,False,"str-2::ChR2-cherry
+str-2::GCaMP3
+fut-1::GCaMP3
+in pha-1;lite-1 
+"
+Combo-12,,109,2,Alon,True,"str-2::ChR2-cherry
+str-2::GCaMP3
+gpa-4::GCaMP3
+in pha-1;lite-1 
+"
+Combo-13,,110,2,Alon,False,"gcy-5::ChR2-cherry (seen)
+gcy-5::GCaMP3 (seen)
+gpa-5::GCaMP3 (not seen)
+in pha-1;lite-1 
+"
+"unc-13(S69),fut-1::GCaMP3 Ex[fut-1::GCaMP-3; pha-1]",,111,2,Alon,False,fut-1::GCaMP-3 into unc-13(S69) 
+"unc-13(S69),str-2::GCaMP3 Ex[str-2::GCaMP-3; pha-1]",,112,2,Alon,False,str-2-1::GCaMP-3 into unc-13(S69)
+gpa-6::GCaMP-3,PS6390,113,2,Alon,True,"syEx1252[gpa-6::GCaMP3+pha-1]; pha-1(e2123ts); him-5(e1490)
+pha-1,him-5 "
+Combo-14,,114,2,Alon,False,"mec-4::ChR2,
+mec-4::G3,
+str-2::G3
+in pha-1; him-5
+"
+AWC ablated,PY7502,115,1,,True,"Genetically-ablated AWC. Beverly M.Sengupta P. J. Neurosc, June 2011 "
+unc-31(e928); pha-1(e2123ts) Ex[fut-1::GCaMP-3; pha-1],,116,2,Alon,False,"fut-1::GCaMP-3 into unc-31 bkg (AZ-68), "
+Combo-15,,117,2,Alon,False,"srsx-3::ChR2,
+srsx-3::G3,
+str-2::G3
+in pha-1;lite-1 
+"
+"unc-13(S69),gcy-5::GCaMP3 Ex[gcy-5::GCaMP-3; pha-1]",,118,2,Alon,False,gcy-5::GCaMP-3 into unc-13(S69)  
+str-2::RCaMP,,119,0,Yifat,True,"In pha-1, him-5 "
+gpa-4::ChR2 x str-2::G3,,120,0,Yifat,True,"Cross of gpa-4::ChR2 with str-2::G3. 
+Background: pha-1, him-5, lite-1. 
+Need to pick doubles"
+Pha-1(e2123ts) ; him-5; lite-1(ce314) ,,121,0,Moria,False,Made by cross of pha-1(e2123ts) ; him-5 with pha-1(e2123ts);lite-1(ce314) 
+Sra-6::GCaMP6m,,122,0,Yifat,True,"In pha-1, him-5"
+wdr-5.1 (ok1417),RB1304,123,1,,True,  
+daf-2(e1370),CB1370,124,3,,True,From Ehud Cohen
+hat-1(ok1265) ,VC764,125,1,,True,  
+hcf-1 (pk924),XA8106,126,1,,True,  
+met-2 (n4256),MT13293,127,1,,True,  
+hda-2 (ok1479),VC983,128,1,,True,  
+hlp-2 (tm1489),PFR40,129,1,,True,   
+hda-3 (ok1991),RB1618,130,1,,True,  
+hda-4 (ok518),RB758,131,1,,True,  
+zfp-1 (ok554),RB774,132,1,,True,  
+unc54::Abeta,CL2006,133,3,,False,"express Abeta under unc54 promoter  [Punc-54::beta-peptide1-42; pRF4]
+from Ehud Cohen"
+unc-54::polyQ35,,134,3,,True,from Ehud Cohen
+F2513.3;polyQ40,AM101,135,3,,True,from Ehud Cohen
+dat-1 (ok157) ,RM2702,136,1,,True,  
+tph-1(mg280); cam-1(vs166),GR1321,137,1,,True,Serotonin release mutant. Contains a satellite mutation (cam-1 (vs166)) and should not be used. Replaced by line MT15434 (AZ186).
+eat-4 (ky-5) ,MT6308,138,1,,True,Glu release mutant
+tdc-1,MT10661,139,1,,True,Tyramine and octopamine release mutant
+cat-2(e1112) ,CB1112,140,1,,True,Dopamine biosynthesis mutant
+bas-1 (ad446),MT7988,141,1,,True,Serotonin and Dopamine release mutant
+"gcy-5::G3,gpa-4::ChR2",,142,0,Yifat,False,"Didn't freeze well. No survivers
+Cross of gcy-5::G3 with gpa-4::ChR2. 
+Background: pha-1, him-5, lite-1. 
+Need to pick doubles"
+odr-10 CX32,CX32,143,1,,True, 
+odr-10 CX3410,CX3410,144,1,,True,  
+hen-1 (tm501) ,JC2154,145,1,,False,"Ordered by Eyal I. Not frozen, no worms alive"
+ttx-3 (mg158) ,OH1,146,1,,True,Ordered by Eyal I.
+chd-7 (tm6183),,147,3,,True,"Mitani.
+Ordered by Eyal BD."
+fkh-7 (tm6093) ,,148,3,,True,"Ordered by Eyal B. from Mitani
+ "
+ chd-7 (tm6139),,149,3,,True,"From Mitani.
+ht2 balancer"
+pha-1(e2123ts); him-5 (e1490),,150,3,,True,???
+nlg-1(ok259),vc228,154,1,,True,Ordered by Eyal B.
+nrx-1(ds1),SG1,155,1,,True,Ordered by Eyal B.
+TJ356,TJ356,156,3,,True,"daf-16p::DAF-16::GFP
+From Ehud Cohen"
+"str-2::RCaMP, gpa-6::GCaMP3",,157,0,Idan,True,"A cross between str-2::RCaMP (AZ119) and gpa-6::GCaMP3 (AZ113).
+Need to pick doubles.  "
+gpa-6::GFP ,pkIs583,158,3,Jansen et.al,True,"gpa-6::GFP integrated 
+
+Made by the Jansen lab
+Ordered by Eyal I."
+"mod-1::GCamp5, myo-3::mCherry",CX14780,159,3,Corry Bargmann,True,"Ordered from Corry Bargmann Lab by Eyal I.
+GCaMP5 on AIY.
+
+"
+him-5 (e1490),CB4088,160,1,,True,for males enrichment
+unc-31 (e928),CB928,161,1,,False,This line was found by Shachar to be wt for unc-31 (both by genotyping and by lack of phenotype) and should not be used. The problem is probably in the original CGC strain since the same line received from Anat Ben-Zvi was also wt.
+str-2p::GCaMP3; str-2p::dsRed,,162,0,Shachar Iwanir,True,"Pha-1(e2123ts); lite-1(ce314); syEx[str-2::dsRed;str-2::GCaMP3;pha-1]
+
+str-2::dsRed, str-2::GCaMP3, pha-1 rescue injected to AZ43"
+gpa-6::GCaMP3 lite-1,,163,0,Eyal I,True,"cross of AZ-113 (gpa-6::GCaMP3 in pha-1;him-5) with AZ43 (pha-1;lite-1)
+Dubbed ""LAWA"".
+
+(Should be stored in secondary backups  !! )
+"
+unc-13(s69); gpa-6p::GCaMP3,,164,0,Shachar Iwanir,True,"unc-13(s69); lite-1(ce314); syEx[gpa-6p::GCaMP3; pha-1 rescue]
+
+AZ163 (lite-1; gpa-6p::GCaMP3) males * BC168 herms.
+
+May contain him-5 (though no excessive males are seen) and Pha-1(e2123ts)  from the AZ163 parent.
+
+"
+unc-31(e928); gpa-6p::GCaMP3,,165,0,Shachar Iwanir,True,"unc-31(e928); pha-1(e2123ts); lite-1(ce314); syEx[gpa-6p::GCaMP3; pha-1 rescue]
+
+AZ163 (lite-1; pha-1; gpa-6::GCaMP3) males * AZ68 (unc-31;pha-1) herms.
+
+May contain him-5 (though no excessive males are seen) from the AZ163 parent."
+hsp16.2p::GFP,CL2070,166,3,,True,From Ehud Cohen
+daf-16(mu86) I; glp-1(e2141) III; muIs109 (daf-16p::DAF-16::GFP).,F1935,167,1,,True,daf-16p::DAF-16::GFP in daf-16(mu86) I; glp-1(e2141) III worms.
+CF1935xPY7502,,168,0,Yifat,True,"A cross between CF1935 (AZ167) and PY7502 (AZ115).
+not backcrossed so I don't know what about the glp-1 mutation. "
+daf-16::daf-16::GFP,cf1934,169,3,,True,"On the background on mu86.
+"
+TJ356; str-2::ChR2,,170,0,Alon,True,"TJ356 crossed with str-2::ChR2.
+Checked for lite-1, not molecularly."
+unc-13(s69); combo-4,,171,0,Shacahr,True,"Cross of AZ93 (combo-4) males * BC168 (unc-13(s69)) herms.
+
+full genotype: unc-13 (s69); lite-1 (ce314); ex([gcy-5::ChR2-cherry gcy-5::GCaMP3 str-2::GCaMP3])
+
+lite-1 homozygocity verified by sequencing
+AZ93 is pha-1, BC168 is not, the pha-1 genotype of the new line has not been determined. 
+"
+unc-31(e928); combo-4,,172,0,Shachar,True,"Cross of AZ93 (combo-4) males *AZ68 (unc-31(e928); pha-1) herms. full genotype: unc-31 (e928); 
+
+pha-1; lite-1 (ce314); ex([gcy-5::ChR2-cherry gcy-5::GCaMP3 str-2::GCaMP3])
+
+lite-1 homozygocity verified by sequencing.
+both parents are pha-1, but the pha-1 genotype or phenotype has not been verified."
+Podr-10::odr-10::gfp,CX3260,173,1,Sengupta group,True,"odr-10 receptor with gfp.
+"
+MT150 (egl-3 mut),MT150,174,1,NA,True,"from CGC:
+
+Strain: 	MT150
+Species: 	Caenorhabditis elegans
+Genotype: 	egl-3(n150) V.
+Description: 	Egg laying defective. Somewhat Uncoordinated-tends to coil. Temperature sensitive allele.
+Mutagen: 	EMS
+Outcrossed: 	x1
+Made by: 	Tsung N/Horvitz B
+"
+OG497 (hsf-1 transl. reporetr),OG497,175,1,NA,True,"from CGC:
+
+Strain: 	OG497
+Species: 	Caenorhabditis elegans
+Genotype: 	drSi13 II; unc-119(ed3) III.
+Description: 	drSi13 [hsf-1p::hsf-1::GFP::unc-54 3'UTR + Cbr-unc-119(+)] II. hsf-1 cDNA with a C-terminal GFP and controlled by 4 kb of the hsf-1 promoter, integrated at a single copy by MosSCI on chromosome II at ttTi5605 in EG4322. Exhibits nuclear GFP expression that redistributes into granules after >1 min 35C heat shock. Reference: Morton EA, Lamitina T. Aging Cell. 2012 Oct 26. doi: 10.1111/acel.12024.
+Mutagen: 	
+Outcrossed: 	x
+Made by: 	Elizabeth Morton"
+gpa-6p::GCaMP3; gpa-6p::dsRed,,176,0,Shachar,True,syEx[gpa-6p::GCaMP; gpa-6p::dsRed; pha-1rsecue] injected to AZ43 (pha-1 lite-1)
+str-1p::GCaMP3; str-1p::dsRed,,177,0,Shachar,True,syEx[str-1::GCaMP3; str-1p::dsRed; pha-1rescue] injected to AZ43 (pha-1 lite-1)
+unc-31(e928); daf-16p::gfp ,,178,0,Shachar,True,"Cross of daf-16p::daf-16::gfp him-5 rol (TJ356 on him-5) males to DA509 (unc-31(e928)) herms
+
+unc-31 visible and confirmed by PCR"
+unc-31(e928),DA509,179,3,,True,"unc-31(e928).
+
+This strain is a 10x backcross of CB928. The original CB928 that we had (AZ161) was found to be wt for unc-31 by PCR. DA509 was obtained from the Gruenbaum lab by Shachar, and can be found in the CGC as well."
+hsp-12.6::tomato+roll6,,180,3,,False,From Ehud Cohen
+hid-1(sa722) ; daf-16p::gfp ,,181,0,Shachar,True,"Cross of daf-16p::daf-16::gfp him-5 rol (TJ356 on him-5) males to JT722 (hid-1(sa722)) herms
+
+hid-1 confirmed by PCR (p .58 Shachar's notebook)"
+egl-3(n150) ; daf-16p::gfp ,,182,0,Shachar,True,"Cross of daf-16p::daf-16::gfp him-5 rol (TJ356 on him-5) males to MT150 (egl-3(n150)) herms
+
+egl-3 confirmed by PCR (p .58 Shachar's notebook)"
+eat-4(ky5) ; daf-16p::gfp ,,183,0,,True,"Cross of daf-16p::daf-16::gfp him-5 rol (TJ356 on him-5) males to AZ138 (eat-4(ky5) herms.
+
+hasn't been generated. AZ number is reserved
+"
+bas-1 (ad446) ; daf-16p::gfp ,,184,0,Shachar,True,"Cross of daf-16p::daf-16::gfp him-5 rol (TJ356 on him-5) males to AZ141 (MT7988; bas-1(ad446)) herms.
+
+bas-1 homos are non-rollers. The final clone (F6-3; see page 70 bottom) is supposedly wt for him-5"
+osm-6 (p811),PR811,185,1,,True,"Genotype confirmed by sequencing (amplified with osm-6 -144s and 285a, sequenced by osm-6 -144s)"
+tph-1 (mg280),MT15434,186,1,,True,"In this line, a satelite cam-1 mutation was cut out, and is now the reference mutant line for tph-1 (the original line GR1321 has many non-specific phenotypes)."
+Combo-16,,187,0,Shachar,True,"gcy-5p::ChR2-cherry
+gcy-5p::GCaMP3
+gpa-6p::GCaMP3
+in pha-1;lite-1 (AZ43)
+
+Chr in ASER
+GCaMP3 in ASER and AWA
+
+green signals are week. AWA and ASE signals overlap and are thus hard to work out from each other. AWA only line should be used instead."
+Combo-17,,188,0,Shacahr,True,"gcy-5p::ChR2-cherry
+gcy-5p::GCaMP3
+gcy-8p::GCaMP3
+in pha-1;lite-1 (AZ43)
+
+Chr in ASER
+GCaMP3 in ASER and AFD"
+NSM::mcherry::SL2::GCaMP3,INV50001,189,3,Shachar,True,"lite-1(ce314) somEx [Ptph-1::mcherry::SL2::GCaMP3 punc122::RFP]
+
+500 bp tph-1 promoter. 
+
+termed NSM::mc2gc
+
+Received from the Biron Lab
+
+Visibly expressed only in NSM. Contains coelomocyte RFP as injection marker. High transmission, strong signal."
+ADF::mcherry::SL2::GCaMP3,INV50002,190,3,Shachar,True,"lite-1(ce314) somEx [Psrh-142::mcherry::SL2::GCaMP3 punc122::RFP]
+
+3500 bp srh-142 promoter. 
+
+termed ADF::mc2gc
+
+Received from the Biron Lab
+
+Expressed in ADF. Contains coelomocyte RFP as injection marker. moderate-low transmission, moderate ADF signal."
+rig-3::GcAMP::SL2::mCherry,,191,3,,False,"Prig-3::GcAMP::SL2::mCherry from Mark Alkema (QW625), Obtained from David Biron
+"
+nmr-1::GcAMP::SL2::mCherry,,192,3,,False,QW660 pnmr-1::GcAMP::SL2::mCherry; lin-15+
+hsp-70::GFP,,193,3,,True,"From Ehud Cohen, originally from the Morimoto lab (Prahlad et al., Science 2008; Morley and Morimoto, MBoC 2004)"
+sra-6::HisCl1::SL2::mCherry,CX15206,194,3,Bargmann lab,True,"CX15206, ASH:HisCl1 kyEx5104 [pNP424 (sra-6::HisCl1::SL2::mCherry), 50 ng/uL+elt-2::mCherry, 1 ng/uL]"
+inx-1::HisCl1::SL2::GFP,CX15457,195,3,Bargmann lab,False,"CX15457 AIB:HisCl1 kyIs620 [pNP472 (inx-1::HisCl1::SL2::GFP), 30 ng/uL + myo-3::mCherry, 5 ng/uL]"
+rig-3::HisCl1::SL2::mCherry,CX14846,196,3,Bargmann lab,False,"CX14846, AVA::HisCl1: kyEx4864 [rig-3::HisCl1::SL2::mCherry 50 ng/mL] (Figure 4, S4 (F1 cross, CX14996)).]"
+inx-1::HisCl1::SL2::mCherry and unc-122::dsRed,CX14848,197,3,Bargmann lab,True,"CX14848, AIB::HisCl1: kyEx4866 [inx-1::HisCl1::SL2::mCherry 50 ng/mL, unc-122::dsRed 10 ng/mL] (Figure 4, S4 (F1 cross, CX14996))]"
+ser-5(ok3087) I. (serotonin-5 receptor mutant),RB2277,198,1,,True,"DONT USE!!!!!!!!!!!!!!!!!!!!!!!!!!!! - Contaminated with AZ-199 
+F16D3.7. Homozygous. Outer Left Sequence: GGATAAGTACGGGCAACGAA. Outer Right Sequence: AATGCGGAACGTTTGAACTC. Inner Left Sequence: TGGAGAACAATTACCCCCTG. Inner Right Sequence: AGATGATGGGATTGAGCATTG. Inner Primer PCR Length: 1119 bp. Deletion Size: 410 bp. Deletion left flank: ATTGTCACGAAAACAAAAGTAATATCAGTG. Deletion right flank: GAAAGACAAACGGGATGGTGGAGCATCAGC. Attribution: This strain was provided by the C. elegans Gene Knockout Project at the Oklahoma Medical Research Foundation, which was part of the International C. elegans Gene Knockout Consortium, which should be acknowledged in any publications resulting from its use. Paper_evidence WBPaper00041807 "
+" str-2::GC3;mod-1::GC5, myo-3::mCherry",,199,3,Bargmann lab/Alon ,False,"Ordered from Corry Bargmann Lab by Eyal I. 
+GCaMP5 on AIY. mod-1::GC5, myo-3::mCherry
+crossed with AZ-62: str-2::GC3 in pha-5, him-5 backgroun. 
+Attention, transmission is very low <20 % so take care that enough worms survive thawing. 
+
+
+
+"
+osm-6 (p811); NSM::mcherry::SL2::GCaMP3,,200,0,Shachar,True,"cross of INV50001 (AZ189) males to PR811 (AZ185) herms
+
+full genotype: osm-6(p811) lite-1(ce314) somEx [Ptph-1::mcherry::SL2::GCaMP3 punc122::RFP];
+
+osm-6 and lite-1 verified by sequencing
+
+"
+osm-6 (p811); ADF::mcherry::SL2::GCaMP3,,201,0,Shachar,True,"cross of INV50002 (AZ190) males to PR811 (AZ185) herms
+
+full genotype: osm-6(p811) lite-1(ce314) somEx [Psrh-142::mcherry::SL2::GCaMP3 punc122::RFP];
+
+osm-6 and lite-1 verified by sequencing"
+"str-2::GC3 [pha-1,unc-13,him-5]",,202,0,,False,"str-2::GC3 [pha-1,unc-13,him-5], crossing of AZ-62 and unc-13"
+sra-6::HisCl1::SL2::mCherry and sra-6::GCaMP3.0,CX15207,203,3,Bargmann lab,False,"CX15207, ASH:HisCl1/GCaMP kyIs602[sra-6::GCaMP3.0, 75 ng/uL+unc-122::GFP, 10 ng/uL]; kyEx5104[pNP424(sra-6::HisCl1::SL2::mCherry), 50 ng/uL+elt-2::mCherry, 1 ng/uL]"
+daf-16::daf-16::GFP him-5,,204,0,Yifat,True,cross of him-5 (AZ160) males to TJ356 (AZ156) herms
+tph-1 (mg280) ; daf-16p::gfp ,,205,0,Shachar,True,"cross of AZ204 males * AZ186 (MT15434) herms. 
+
+WT to him-5 (validated by genotyping)"
+cat-2 (e1112) ; daf-16p::gfp ,,206,0,Shachar,True,cross of AZ204 males * AZ140 herms
+tdc-1 (n3420) ; daf-16p::gfp ,,207,0,Shachar,True,cross of AZ204 males * AZ139 herms. 
+"mod-1::gc5,myo-3::mCherry,pha-1, lite-1 ",,208,0,Rotem and Eyal,False,"Bargmann mod-1 strain CX14780, crossed with our pha-1,lite-1 mutatnt (AZ43).
+
+"
+SJ4005; zcIs4 [hsp-4::GFP] V,SJ4005,209,1,,True, 
+bas-1 (tm351),LC33,210,1,,True,"Biogenic amine synthesis mutant
+
+A second bas-1 mutant [ad446 (MT7988 = AZ141) is the canonical mutation]"
+cat-1 (e1111),CB1111,211,1,,True, Biogenic amine vesicular transport mutant
+cat-4 (e1141),CB1141,212,1,,True, Biogenic amine synthesis co-factor mutant
+cat-2 (n4547),MT15620,213,1,,True,"Dopamine biosynthesis mutant. 
+
+A second cat-2 muatnt [e1112 (CB1112 = AZ140) is the canonical mutation]"
+tph-1 (n4622),MT14984,214,1,,True,"serotonin biosynthesis mutant
+
+A second tph-1 mutant [mg280 (MT15434-AZ186) is the canonical mutation]"
+mod-5 (n3314),MT9772,215,1,,True, serotonin re-uptake mutant (increases serotonin signaling where it exists)
+dop-1 (vs101),LX645,216,1,,True, Dopamine receptor mutant
+dop-2 (vs105),LX702,217,1,,True,dopamine receptor mutant
+dop-3 (vs106),LX703,218,1,,True, dopamine receptor mutant
+dop-4 (tm1392),FG58,219,1,,True, Dopamine receptor mutant
+ser-1 (ok345),DA1814,220,1,,True, serotonin receptor mutant
+ser-4 (ok512),AQ866,221,1,,True, serotonin receptor mutant
+ser-5 (ok345),RB2277,222,1,,True,serotonin receptor mutant
+ser-7 (tm1325),DA2100,223,1,,True,serotonin receptor mutant
+mod-1 (ok103),MT9668,224,1,,True,serotonin receptor mutant
+rab-3::2xNLS-TagRFP,OH10690,225,3,Oliver Hoberts lab,False,Genotype: otls356 (rab-3p::2xNLS-TagRFP); 
+inx-1::GC3,inx-1::GC3,226,0,Christian,False,inx-1::GC3 injected into pha-1 x lite-1 background with 80 ng/uL pha-1 rescue plasmid
+tbh-1(n3247),MT9455,227,1,,False, Octopamine biosynthesis from tyramine
+ser-2 (pk1357),OH313,228,1,,False,Tyramine receptor
+tyra-3 (ok325),CX11839,229,1,,False,Tyramine receptor
+lgc-55 (n4331),MT14680,230,1,,False,Tyramine gated Cl channel
+ser-3 (ad1774),CX12800,231,1,,False,Octopamine receptor
+octr-1 (ok371),CX13079,232,1,,False,Octopamine receptor
+TJ-356;srsx-3::ChR2,,234,0,Lihi,False,cross of Tj-356 (AZ-156) with AZ-105
+TJ356;sra-6::HisCl1::SL2::mCherry,,235,0,Lihi,False,"mating of TJ356 (AZ156) with AZ194 (	sra-6::HisCl1::SL2::mCherry)
+The second is extrachromosomal, needs to be picked by hand"
+myo-3::GFP(mit),SJ4103,236,1,,False,GFP in the mitochondria of muscles
+myo-3::GFP(nuc+mit),PD4251,237,1,,False,GFP in mitochondria; GFp in nucleus dpy-20 rescue
+sur-5::GFP,MT18144,238,1,,False,ubiquitous GFP expression; insert contains also mir-71 rescue
+Pgcy-28d::GCaMP3,,239,0,,False,"Pgcy-28d::GCaMP3 in pha-1 x lite-1 background.
+Pgcy-28d::GCaMP3 10 ng/uL 
+pha-1 rescue plasmid 12 ng/uL (more killed the worms)
+
+expression mostly AIA interneuron however in some worms other neurons as well
+
+-Christian "
+osm-6::GCamp3/nmChr pha-1,pha-1(e2123) osm-9::GCamp3/nmChr,240,0,Shachar,False,"osm-6::GCaMP3 osm-6::nuclear mCherry pha-1r on pha-1(e2123) background
+
+Expression pattern: many sensory neurons in the Amphid organ and some in the anterior, ventral and retrovesicular ganglia. GCaMP activation in AWA and AWC by DA and IAA demonstrated.
+
+Strong expression and good transmission
+
+2.4 kb osm-6 promoter"
+mod-1::GCamp3/nmChr pha-1,pha-1 mod-1::GCamp3/nmChr,241,0,Shacahr,False,"mod-1::GCaMP3 mod-1::nuclear mCherry pha-1r on pha-1(e2123) background
+
+Expression pattern: ~7-8 head neurons including AIY and other ventral and lateral cells. AIY dynamics during DA+IAA application demonstrated.
+
+Strong expression and good transmission, but mosaic. Expected expression: AIA/B/Y/Z + others
+
+1.6 kb mod-1 promoter"
+ser-2b::GCaMP3/nmChr pha-1,pha-1 ser-2b::GCaMP3/nmChr,242,0,Shacahr,False,"ser-2b::GCaMP3 ser-2b::nuclear mCherry pha-1r on pha-1(e2123) background
+
+Expression pattern: Ventral and lateral ganglia cells, most likely including AIY and supposedly also AIZ
+
+moderate expression level, moderate transmission
+
+2.1 kb ser-2b promoter"
+odr-1 (n1936),CX2065,243,1,,False,"AWC chemosensory defect. Exact mutation location not verified, consult Shachar"
+odr-3 (n2150),CX2205,244,1,,False,"Exact mutation location not verified, consult Shachar"
+odr-4 (n2144),MT5300,245,1,,False,"defective in DA, TT and BA chemotaxis. Temperature sensitive? 
+
+Exact mutation locations not fully verified, see Dwyer et al., 1998. consult Shachar"
+odr-5 (ky9),CX2357,246,1,,False,"uncloned gene, sequence and mutation unknown.
+
+AWC defective, similar defect profile to odr-1 (see Bargmann 1993)"
+odr-7 (ky4),CX4,247,1,,False,"AWA chemosensory defect. probably C992T change (Sengupta 1994), consult Shachar"
+osm-9 (ky10),CX10,248,1,,False,"Q172 nonsense mutation (Colbert 1997), consult Shachar
+
+TRP channel required for mechano-, osmo- and ASH and AWA chemo-sensation, and adaptation to AWC sensed volatiles (Colbert 1995, Colbert 1997)."
+sri-14 (ok2865),VC2123,249,1,,False,"Required for DA sensation by ASH to mediate high-concentration repelence (Taniguchi 2014).
+
+ok2865 is a 532 kb deletion.
+
+The cosmid clone M01G12 which contains the gene, includes an almost identical duplicate of most of the gene on the opposite strand, just 2kb upstream to the CDS. If this is a true reflection of the genomic structure and not a cloning/sequence erro, this may complicate genotyping of this line."
+eri-1 (mg366),GR1373,250,1,,False,"enhanced RNAi sensitivity in neurons.
+
+mutation is a 23 bp insertion"
+gar-2,,251,1,,False,"Strain: 	RB756
+Species: 	Caenorhabditis elegans
+Genotype: 	gar-2(ok520) III.
+F47D12.1. Homozygous. Outer Left Sequence: TATGCAAATTCGTTCGAGCA. Outer Right Sequence: GAAGCACACCCGTGTTACCT. Inner Left Sequence: AGAAGCAGAAGGAGCACGAG. Inner Right Sequence: ACTGCGATTAATGGGACCTG. Inner primer WT PCR product: 2567. Attribution: This strain was provided by the C. elegans Gene Knockout Project at the Oklahoma Medical Research Foundation, which was part of the International C. elegans Gene Knockout Consortium, which should be acknowledged in any publications resulting from its use. Paper_evidence WBPaper00041807"
+gar-1(ok755),,252,1,,False,"Strain: 	RB896
+Species: 	Caenorhabditis elegans
+Genotype: 	gar-1(ok755).
+
+Description: 	C15B12.5 Homozygous. Outer Left Sequence: TGCAAATTTGAAAATGCCAA. Outer Right Sequence: CAAGTTCCGCACATCTCTGA. Inner Left Sequence: CGATTGGTAAAAGTTGGGGA. Inner Right Sequence: GTTTCCCTCGCCATATCAGA. Inner Primer WT PCR product: 3158. Deletion size: 1264 bp. Attribution: This strain was provided by the C. elegans Gene Knockout Project at the Oklahoma Medical Research Foundation, which was part of the International C. elegans Gene Knockout Consortium, which should be acknowledged in any publications resulting from its use. Paper_evidence WBPaper00041807"
+srsx-3::HisCl1::sl2::NLS-mCherry,,253,0,Yifat,False,"srsx-3::HisCl1::sl2::NLS-mCherry-NLS
+injected into pha-1;him-5 worms.
+
+mCherry expression is all over the worms. 
+"
+"Pgcy-28d::GCaMP3, Pstr-2::RCaMP2, Psra-6::RCaMP2",,254,0,,False,"
+
+gcy-28d::GCaMP3, Str-2::RCaMP2, Sra-6::RCaMP2 in pha-1xlite-1 background
+
+Christian "
+gar-3(gk305) V.,,255,1,,False,"Y40H4A.1a. Superficially wild type. Attribution: This strain was provided by the C. elegans Reverse Genetics Core Facility at the University of British Columbia, which is part of the international C. elegans Gene Knockout Consortium, which should be acknowledged in any publications resulting from its use. Paper_evidence WBPaper00041807"
+gpa-6::gc3; mod-1::gc3; str-2::rc2 (LAWY),,256,0,Rotem & Eyal,True,"Codename: LAWY
+
+Created for temporal gradients project. Injected by Rotem R. & Eyal I.
+"
+eat-16(ep273) I,CE1258,257,1,,True,"Ordered from CGC by rotem & Eyal.
+"
+che-3(e1124) I.,CB1124,258,1,,True,Ordered from CGC by Rotem R & Eyal I.
+eat-16(ce71) I,KG-571,259,1,,True,"Rotem & Eyal from CGC
+eat-16(ce71)"
+unc-43 (e408),CB408,260,1,,True,"Rotem & Eyal
+UNC-43
+CB408(e408)"
+eat-16(nj8) I,IK1191,261,1,,True,"Rotem &  Eyal
+
+eat-16(nj8)"
+arr-1 (ok401) X,RB660,262,1,,True,"Rotem & Eyal
+
+RB660 (ok401) X"
+cnb-1,VC990,263,1,Rotem & Eyal,True,"Rotem and Eyal oscillation candidates
+cnb-1(ok276) V"
+eat-16 (sa609),jt609,264,1,Rotem & Eyal,True,"rotem & eyal oscilation candidates
+eat-16(sa609)"
+tax-6(ok2065) IV,RB1667,265,1,Rotem & Eyal,True,"ocilations candidates
+Rotem & Eyal
+tax-6(ok2065) IV"
+che-2(e1033) X,CB1033,266,1,Bargmann,True,"Ordered from CGC by Roten and Eyal.
+
+Strain: CB1033
+Genotype: che-2(e1033) X."
+cnb-1(jh103) V, KJ300,267,1,Rotem  & Eyal,True,"Ordered by Rotem & Eyal from CGC.
+
+Strain: KJ300
+Genotype: cnb-1(jh103) V."
+ tax-6(p675) IV,PR675,268,1,Rotem & Eyal,True,"Rotem & Eyal oscillations candidates
+ tax-6(p675) IV"
+eat-16(ad702) I,DA702,269,1,Rotem & Eyal,True,"rotem & eyal
+oscilation candidates
+eat-16(ad702) I
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"
+TJ;srsx-3::HisCl1,,270,0,Yifat,False,a cross between AZ253 (srsx-3::HisCl1::sl2::NLS-mCherry) and TJ356
+TJ;str-2::HisCl1,,271,0,Yifat,False,a cross between str-2::HisCl1::sl2::NLS-mCherry and TJ356
+JIM113,JIM113,272,3,,False,"ujIs113
+
+[Ppie-1::H2B::mCherry, unc-119(+); Pnhr-2::HIS-24::mCherry, unc-119(+)]"

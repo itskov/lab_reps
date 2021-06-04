@@ -1,0 +1,155 @@
+name,azNumber,origin,made by,isThawed
+odr-7:: ChR2-YFP unc-119::GCaMP-1 unc-119::DsRed,1,2,Alon,False
+gcy-5:: ChR2-YFP unc-119::GCaMP1 unc-119::DsRed,2,2,Alon,False
+gcy-5:: ChR2-YFP gcy-8:: GCaMP-2,3,2,Alon,False
+pax-2::GFP glr-1::GCaMP-2 odr-7::ChR2-YFP ,4,2,Alon,False
+pax-2::GFP glr-1::GCaMP-2 odr-7::ChR2-YFP gcy-5::DsRed2,5,2,Alon,False
+gcy-5::GCaMP-2,6,2,Alon,False
+glr-1::GCaMP-2,7,2,Alon,False
+gcy-5: ChR2-cherry glr-1::GCaMP-2,8,2,Alon,False
+glr-1::ChR2-cherry gcy-5::GCaMP-2,9,2,Alon,False
+gcy-5:: ChR2-cherry gcy-8::GCaMP2,10,2,Alon,False
+gcy-5:: ChR2-cherry glr-1::GCaMP1,11,2,Alon,False
+gcy-5:: ChR2-cherry gcy-5:: GCaMP-1,12,2,Alon,False
+glr-1::ChR2-chry glr-1::GCaMP1,13,2,Alon,False
+eat-4::ChR2-cherry glr-1::GCaMP1,14,2,Alon,False
+sra-6:: ChR2-cherry sra-6:: GCaMP-1,15,2,Alon,False
+gcy-5::iGluR6-chry,16,2,Alon,False
+str-2::GCaMP-2,17,2,Alon,False
+myo-3::GFP-Aequorin,18,2,Alon,False
+dgk-1::GFP-Aequorin,19,2,Alon,False
+str-2::ChR2-chry(H134R) str-2::GCaMP-2,20,2,Alon,False
+gcy-5::ChR2-chry(H134R) gcy-5::GCaMP-2,21,2,Alon,False
+unc-119::GFP-Aequorin,22,2,Alon,False
+gcy-5::ChR2-chry(H134R),23,2,Alon,False
+str-2::ChR2-chry(H134R),24,2,Alon,False
+gcy-5::ChR2-chry(H134R) 1,25,2,Alon,False
+gcy-8::ChR2-chry(H134R) gcy-8::GCaMP-2,26,2,Alon,False
+gcy-8::GCaMP-2,27,2,Alon,False
+mec-4::ChR2-chry(H134R),28,2,Alon,False
+myo-3::ChR2-chry(H134R),29,2,Alon,False
+sra-6:: GFP-Aequorin ,30,2,Alon,False
+str-2:: GFP-Aequorin ,31,2,Alon,False
+C37::GFP ,32,2,Alon,False
+rpa-0::GFP ,33,2,Alon,False
+sra-6::GCaMP-3 ,34,2,Alon,False
+sra-6 lite (sharad),35,2,?,False
+sra-6 (sharad),36,2,?,False
+gcy-8::GCaMP-3,37,2,Alon,True
+str-1::GCaMP-3,38,2,Alon,True
+gpa-4::GCaMP-3,39,2,Alon,False
+str-2::GCaMP3,40,2,Alon,False
+str-1::GFP,41,2,Alon,False
+glr-3::GCaMP-3,42,2,Alon,False
+"pha-1, lite-1",43,3,,True
+eat-4::GCaMP-3,44,2,Alon,False
+gcy-5::GCaMP-3,45,2,Alon,True
+"sra-6::ChR2, glr-3::GCaMP-3 ",46,2,Alon,False
+myo-2::HyLi-GFP-Plus,47,2,Alon,False
+sra-6::GCaMP3 ,48,2,Alon,False
+srh-142::GCaMP-3,49,2,Alon,False
+srg-8::GCaMP-3,50,2,Alon,False
+gpa-4::ChR2-cherry(zs),51,2,Alon,True
+gcy-8::ChR2(zs),52,2,Alon,False
+str-2::ChR2-cherry (zs),53,2,Alon,False
+"sra-6::ChR2-cherry (zs, C128S)",54,2,Alon,False
+dat-1::GCaMP3,55,2,Alon,False
+des-2::GCaMP3,56,2,Alon,True
+srsx-3::GCaMP3,57,2,Alon,False
+gcy-7::GCaMP3,58,2,Alon,False
+gpa-4::ChR2-cherry(zs) 1,59,3,Zengcai,False
+gcy-5:: ChR2-cherry(zs),60,2,Alon,True
+gcy-33::ChR2-cherry(zs),61,2,Alon,False
+str-2(2)::GCaMP-3,62,2,Alon,True
+glr-3::ChR2-cherry(zs),63,2,Alon,False
+gcy-8::ChR2-cherry(zs),64,2,Alon,False
+myo-3::Arch-GFP,65,2,Alon,False
+mec-4(2)::ChR2-cherry(zs),66,2,Alon,False
+ocr-4::ChR2-cherry(zs),67,2,Alon,False
+unc-31(e928); pha-1(e2123ts),68,3,,False
+unc-31(e928); pha-1(e2123ts) Ex[des-2::GCaMP-3; pha-1],69,2,Alon,False
+srh-142::ChR2-cherry(zs),70,2,Alon,False
+str-1::ChR2-cherry(zs),71,2,Alon,False
+nmr-1::ChR2-cherry(zs),72,2,Alon,False
+nmr-1::GCaMP3 ,73,2,Alon,False
+osm-3::GCaMP3,74,2,Alon,True
+unc-31(e928); pha-1(e2123ts) Ex[str-1::GCaMP-3; pha-1],75,2,Alon,False
+unc-31(e928); pha-1(e2123ts) Ex[str-2::GCaMP-3; pha-1;him-5],76,2,Alon,False
+gpa-4::Arch-GFP,77,2,Alon,False
+str-1::Arch-GFP,78,2,Alon,False
+ocr-4::GCaMP3,79,2,Alon,False
+myo-3::ChR2-cherry(zs),80,2,Alon,False
+del-1::ChR2-cherry(zs),81,2,Alon,False
+gpa-9::GCaMP3,82,2,Alon,False
+fut-1::GCaMP3,83,2,Alon,False
+unc-31(e928); pha-1(e2123ts) Ex[gcy-5::GCaMP-3; pha-1],84,2,Alon,False
+sra-9::GCaMP3,85,2,Alon,False
+Combo-1,86,2,Alon,False
+sra-6::Arch,87,2,Alon,False
+str-2::Arch,88,2,Alon,False
+mec-4::GCaMP-3,89,2,Alon,False
+gcy-33::GCaMP-3,90,2,Alon,True
+combo-3,91,2,Alon,False
+sri-51::GCaMP-3,92,2,Alon,False
+Combo-4,93,2,Alon,True
+unc-13 mutant,94,1,,False
+Combo-2,95,2,Alon,False
+"unc-13(e51),str-2::GCaMP3 Ex[str-2::GCaMP-3; pha-1]",96,2,Alon,False
+Combo-5,97,2,Alon,True
+Combo-6,98,2,Alon,False
+Combo-7,99,2,Alon,False
+"unc-13(e51),str-1::GCaMP3 Ex[str-1::GCaMP-3; pha-1]",100,2,Alon,False
+"unc-13(e51),gcy-5::GCaMP3 Ex[gcy-5::GCaMP-3; pha-1]",101,2,Alon,False
+Combo-8,102,2,Alon,False
+"unc-13(e51),fut-1::GCaMP3 Ex[fut-1::GCaMP-3; pha-1]",103,2,Alon,False
+unc-13(s69),104,1,,False
+srsx-3::ChR2-cherry(zs),105,2,Alon,False
+Combo-9,106,2,Alon,True
+Combo-10,107,2,Alon,True
+Combo-11,108,2,Alon,False
+Combo-12,109,2,Alon,False
+Combo-13,110,2,Alon,False
+"unc-13(S69),fut-1::GCaMP3 Ex[fut-1::GCaMP-3; pha-1]",111,2,Alon,False
+"unc-13(S69),str-2::GCaMP3 Ex[str-2::GCaMP-3; pha-1]",112,2,Alon,False
+gpa-6::GCaMP-3,113,2,Alon,True
+Combo-14,114,2,Alon,False
+PY7502,115,1,,False
+unc-31(e928); pha-1(e2123ts) Ex[fut-1::GCaMP-3; pha-1],116,2,Alon,False
+Combo-15,117,2,Alon,False
+"unc-13(S69),gcy-5::GCaMP3 Ex[gcy-5::GCaMP-3; pha-1]",118,2,Alon,False
+str-2::RCaMP,119,0,Yifat,True
+gpa-4::ChR2 x str-2::G3,120,0,Yifat,True
+Pha-1(e2123ts) ; him-5; lite-1(ce314) ,121,0,Moria,False
+Sra-6::GCaMP6m,122,0,Yifat,True
+wdr-5.1 (ok1417),123,1,,True
+daf-2(e1370),124,3,,False
+hat-1(ok1265) ,125,1,,True
+hcf-1 (pk924),126,1,,True
+met-2 (n4256),127,1,,True
+hda-2 (ok1479),128,1,,True
+hlp-2 (tm1489),129,1,,True
+hda-3 (ok1991),130,1,,True
+hda-4 (ok518),131,1,,True
+zfp-1 (ok554),132,1,,True
+unc54::Abeta,133,3,,False
+unc-54::polyQ35,134,3,,True
+F2513.3;polyQ40,135,3,,True
+dat-1 (ok157) ,136,1,,True
+tph-1 (mg280) ,137,1,,True
+eat-4 (ky-5) ,138,1,,True
+tdc-1 (n3420) ,139,1,,True
+cat-2(e1112) ,140,1,,True
+bas-1 (ad446),141,1,,True
+"gcy-5::G3,gpa-4::ChR2",142,0,Yifat,False
+odr-10 CX32,143,1,,True
+odr-10 CX3410,144,1,,True
+hen-1 (tm501) ,145,1,,False
+ttx-3 (mg158) ,146,1,,True
+chd-7 (tm6183),147,3,,True
+fkh-7 (tm6093) ,148,3,,True
+ chd-7 (tm6139),149,3,,True
+pha-1(e2123ts); him-5 (e1490),150,3,,True
+nlg-1(ok259),154,1,,True
+nrx-1(ds1),155,1,,True
+daf-16p::DAF-16::GFP,156,3,,True
+"str-2::RCaMP, gpa-6::GCaMP3",157,0,Idan,True

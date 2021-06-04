@@ -1,0 +1,83 @@
+<html>
+<head>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<!-- Jquery Scripts -->
+<script>
+function getStocksNumbers() {
+	stocksDict = {};
+	{% for row in data %}
+	if ($("#stock{{row.0}}").prop("checked")) {
+		stocksDict["{{row.0}}"] = '1';
+	}
+	else {
+		stocksDict["{{row.0}}"] = '0';
+	}
+	{% endfor %}
+
+	//$("#results").html("");
+
+
+	$.post( "/services/initializeWormStrain/{{entityId}}/", stocksDict).done(function(data) {
+
+		if (data != 'Done.') {
+			$("#results").html(data);
+		}
+		else {
+		    url = "../../../services/updateBoxes/{{entityId}}/"
+		    $("#results").html("<iframe id='boxFram' src='" + url + "' width='100%' height='100%' name='temp'fsdf></frame>");	
+		}
+	
+	});
+}
+
+	
+
+</script>
+</head>
+
+<body>
+<h2>{{entityName}}</h2>
+<p style="width:1424px;height:800px;margin-right: auto;margin-left:auto;"> 
+
+	<table style="width:100%%;height:100%;border:1px solid black;">
+	<tr>
+	<td style="width:20%;border:1px solid black;vertical-align:top;">
+	<table style="height:20%;border-spacing: 10px;
+    border-collapse: separate;"">
+	<tr style="border-bottom:1px solid black;">
+	<td><b>Stock name</b></td>
+	<td><b>Boxes in stock</b> </td>
+	<td><b>Should Add</b> </td>
+	</tr>
+	{% for row in data %}
+	<tr>
+	<td style="text-align: center;">{{ row.1 }}</td>
+	<td style="text-align: center;">
+	{% for bName in row.2 %}
+		{{ bName }}<br>
+	{% endfor %}
+	</td>
+	{% if row.2 > 0 %}
+		<td><input type="checkbox" id="stock{{row.0}}"></td>
+	{% else %}
+		<td><input type="checkbox" id="stock{{row.0}}" value="" disabled="true"></td>
+	{% endif %}
+	</tr>
+	{% endfor %}
+	<tr>
+	<td>
+	<button onclick="getStocksNumbers()">Initialize Strain</button><button onclick="window.close()">Close</button>
+	</td>
+	</tr>
+	</table>
+	</td>
+	<td style="width:80%;border:1px solid black;vertical-align:top;">
+	<p style="width:100%;height:100%" id="results"></p>
+	</td>
+	</tr>
+	</table>
+
+</p>
+</body>
+</html>
